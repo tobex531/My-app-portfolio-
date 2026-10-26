@@ -1,0 +1,6 @@
+{
+  "name": "Tobex Foundation — Every Girl Deserves a Future",
+  "description": "Tobex Foundation is dedicated to empowering girls, protecting their rights, promoting education, supporting vulnerable children, and creating opportunities for every girl to reach her full potential.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
